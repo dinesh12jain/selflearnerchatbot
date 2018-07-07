@@ -1,0 +1,14 @@
+{
+  "bot": {
+    "name": "Selflearnerbot",
+    "alias": "EDU",
+    "version": "$LATEST"
+  },
+  "currentIntent": {
+    "name": "hello",
+    "slots": {
+      "greetingwords": "Hey",
+      "coursestypes": "webdevelopment"
+    }
+  }
+}
